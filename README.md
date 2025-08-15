@@ -1,4 +1,4 @@
-# gurt-hub-scripts
+# Gurt Hub Scripts
 A simple Roblox script hub. More features coming soon!
 ## Usage
 ```lua
